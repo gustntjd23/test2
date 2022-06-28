@@ -1,7 +1,7 @@
-package 깃허브연습1;
+package github;
 
 public class test {
 		public static void main(String[] args) {
-			System.out.println("연습장");
+			System.out.println("hello");
 		}
 }
